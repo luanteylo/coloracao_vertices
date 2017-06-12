@@ -1,4 +1,4 @@
-# Apresentação Coloração de Vértices
+# Coloração de Vértices
 
 Essa apresentação aborda o tema de coloração de vértices em grafos e foi apresenta da disciplina de Teoria dos Grafos (2017/1), na Universidade Federal Fluminense. 
 O material é baseado no capítulo 8 do livro _Graph Theory With Application (Bondy and Murty, 1976)_.
